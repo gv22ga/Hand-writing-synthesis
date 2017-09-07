@@ -1,0 +1,21 @@
+Scribe: Realistic Handriting in Tensorflow
+     by Sam Greydanus
+
+
+
+SAMPLING MODE...
+loading data...
+building model...
+attempt to load saved model...
+kappas: 
+[ 0.83371633  1.43474269]
+kappas: 
+[ 0.91739923  1.49638903]
+kappas: 
+[ 0.85005158  1.44133234]
+kappas: 
+[ 0.92832166  1.59256756]
+kappas: 
+[ 0.84428936  1.39548135]
+kappas: 
+[ 0.91672808  1.5147903 ]
